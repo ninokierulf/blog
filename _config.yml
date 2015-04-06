@@ -50,6 +50,7 @@ bing_verify:
 links:
   - title: home
     url: https://ninokierulf.github.io
+    external: true
   - title: Blog
     url: /
     external: false
