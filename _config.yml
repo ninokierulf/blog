@@ -48,11 +48,11 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: home
+  - title: <i class="fa fa-home">Home</i>
     url: https://ninokierulf.github.io
     external: true
   - title: Archive
-    url: /Archive.html
+    url: /archive
   - title: Blog
     url: /
     external: false
