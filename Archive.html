@@ -21,7 +21,7 @@ description: "An archive of post sorted by date"
     {% if year != nyear %}
     </ul>
     <h2 style="color: #c91b26">{{ post.date | date: '%Y' }}</h2>
-    <ul class="past">
+    <ul class="post-list">
     {% endif %}
     {% endunless %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
