@@ -51,6 +51,8 @@ links:
   - title: home
     url: https://ninokierulf.github.io
     external: true
+  - title: Archive
+    url: /Archive.html
   - title: Blog
     url: /
     external: false
