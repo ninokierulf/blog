@@ -1,33 +1,32 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
-title: Hossain Mohd Faysal
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+permalink: /nino-nhexie-kierulf/index.html
+title: Nino Nhexie Kierulf
+tags: [Nino, Nhexie, Kierulf, ninokierulf]
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: Nino-Nhexie-Kierulf.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/ninokierulf.jpg" alt="Nino Nhexie Kierulf">
+  <figcaption>Nino Nhexie Kierulf</figcaption>
 </figure>
 
->Entrepreneur
+>Developer
 >
->Designer
+>Sports Enthusiast
 >
->Engineer
->
->Inventor
+>Frustrated Designer
 
 I
-make
-stuff.
+love
+learning.
 
 
-*Beautiful, practical, meaningful stuff.*
+*Pragmatic, meticulous, idealistic.*
 
 
-I make what I love.
+There's always something exciting to learn.
+
 
 *I love what I do.*
 
