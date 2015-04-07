@@ -2,21 +2,26 @@
 layout: post
 type: quote
 title: "You are unique!"
-description: 
-headline: 
-modified: 2015-04-07
+description: null
+headline: null
+modified: 
+  - 2015-04-07T00:00:00.000Z
+  - "Tue Apr 07 2015 08:00:00 GMT+0800 (SGT)"
 category: quotes
-tags: [random]
+tags: 
+  - random
 image: 
-  feature: albert-einstein-2068-hd-wallpapers.jpg
+  feature: "albert-einstein-2068-hd-wallpapers.jpg"
 comments: true
-mathjax: 
+mathjax: false
+published: true
+featured: false
 ---
 
 >&quot;You are unique. Just like everyone else.&quot;
 ><small><cite title="Anonymous">Anonymous</cite></small>
 
-It's so ironic that everyone wants to be unique, that it becomes what it's trying not to be -- not unique.
+It's so ironic that everyone wants to be unique, that it becomes what it's trying not to be ---- not unique.
 
 <!--
 People strive to be unique aside from everybody else.
