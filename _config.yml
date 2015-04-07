@@ -51,14 +51,14 @@ links:
   - title: <i class="fa fa-home">Home</i>
     url: https://ninokierulf.github.io
     external: true
-  - title: Archive
-    url: /archive
+    icon: home
   - title: Blog
     url: /
     external: false
-    icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
+  - title: Archive
+    url: /archive
+  # - title: <i class="icon-book"></i> Documentation
+  #   url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
