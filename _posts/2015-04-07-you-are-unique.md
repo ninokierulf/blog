@@ -21,7 +21,7 @@ featured: false
 >&quot;You are unique. Just like everyone else.&quot;
 ><small><cite title="Anonymous">Anonymous</cite></small>
 
-It's so ironic that everyone wants to be unique, that it becomes what it's trying not to be ---- not unique.
+It's so ironic that everyone wants to be unique, that it becomes what it's trying not to be --- not unique.
 
 <!--
 People strive to be unique aside from everybody else.
