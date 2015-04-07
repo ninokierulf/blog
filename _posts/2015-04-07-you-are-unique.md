@@ -5,7 +5,6 @@ title: "You are unique!"
 description: null
 headline: null
 modified: 
-  - "Tue Apr 07, 2015 6PM (SGT)"
 category: quotes
 tags: 
   - random
