@@ -21,8 +21,10 @@ You may be very good at what you do, if you lack the said quality, you'll seem m
 
 > Confidence is marketing yourself.
 
-I'm not just saying that it only applies IRL (in real life), it may also be how you present yourself in world wide web, and maybe in the future, inside virtual reality.
+I'm not just saying that it only applies IRL (in real life), it may also be how you present yourself in the world wide web, and maybe in the future, inside virtual reality.
 
-Is it the notion of anonymity, the disregard of judgement that makes an anon ooze confidence. Though most of the time it is used in a ??? way that verbally abuses others, it is still confidence and we can learn something from that.
+Now anonymous aka anon has got him/her/it some confidence!
+Is it the disregard of judgement that makes an anon ooze confidence. Though most of the time, confidence is used in an unethical way like verbally abusing others. It is still confidence and we can learn something from that. We are afraid of being judged when there is a face tied to it --- your face.
+[todo:expand]
 
 [^1]: tl;dr. Be Confident
